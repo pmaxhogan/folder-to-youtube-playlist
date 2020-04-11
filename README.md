@@ -1,2 +1,6 @@
 # folder-to-youtube-playlist
-Make a folder a youtube playlist
+Upload a folder of videos downloaded with `youtube-dl` (with info JSON written) to a YouTube playlist.
+
+```
+Usage: 
+    node . [playlistID] [videoDir] [infoJSONFileDir]```
